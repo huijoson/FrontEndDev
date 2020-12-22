@@ -1,5 +1,3 @@
-function HelloWorld() {
-  console.log('Hello, World')
-}
-
-HelloWorld()
+// main.js
+let div = document.querySelector('div')
+console.log(div)
